@@ -1,7 +1,7 @@
 {
   "name": "turf",
   "version": "v7.0.0-alpha.2",
-  "private": false,
+  "private": true,
   "workspaces": [
     "packages/*"
   ],
